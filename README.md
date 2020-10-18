@@ -1,0 +1,2 @@
+# Inventory_Management_System
+This Inventory Management System is a Project which is developed by using PHP PDO, Mysql Database, Bootstrap Library, Ajax and Jquery Datatables plugin. This system is web based application and this created by using PHP PDO, Ajax, Jquery Datatables plugin, Bootstrap Library and Mysql Database. This system will provides features like manage category, brands, products, order and report to user.
